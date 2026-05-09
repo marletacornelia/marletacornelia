@@ -1,7 +1,7 @@
 # Introduction
 
 Hello! 👋
-I'm Marleta Cornelia Leander, a Computer Science student at Institut Teknologi Sumatera (ITERA) with a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
+I'm Marleta Cornelia Leander, a Data Science graduate from Institut Teknologi Sumatera (ITERA) with a strong interest in Data Science, Machine Learning, and Artificial Intelligence.
 
 I enjoy exploring how technology and data-driven approaches can be applied to solve real-world problems through research and practical projects.
 
