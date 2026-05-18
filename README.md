@@ -24,5 +24,5 @@ My current interests include:
 
 I'm open to collaboration, research opportunities, internships, and discussions related to technology and data science.
 
-* LinkedIn: (https://www.linkedin.com/in/marleta-cornelia-l-b8b903288/))]
+* LinkedIn:https://www.linkedin.com/in/marleta-cornelia-l-b8b903288/
 * GitHub: https://github.com/marletacornelia
